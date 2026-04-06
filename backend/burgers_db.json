@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Zingy double layer",
+        "description": "Juicy beef patty with lettuce and tomato",
+        "price": 10.99,
+        "image": "/images/b1.png",
+        "category": "Classic"
+    },
+    {
+        "id": 3,
+        "name": "Bacon Burger",
+        "description": "Beef patty topped with crispy bacon",
+        "price": 12.99,
+        "image": "/images/b3.png",
+        "category": "Gourmet"
+    },
+    {
+        "id": 4,
+        "name": "cheese Burger",
+        "description": "The best test burger in town",
+        "price": 5.99,
+        "image": "/images/b1.png",
+        "category": "Gourmet"
+    }
+]

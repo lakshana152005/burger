@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "name": "beef Burger",
+        "description": "Classic burger with double cheddar",
+        "price": 11.99,
+        "image": "/images/b2.png"
+    },
+    {
+        "id": 3,
+        "name": "Bacon Burger",
+        "description": "Beef patty topped with crispy bacon",
+        "price": 12.99,
+        "image": "/images/b3.png"
+    }
+]
